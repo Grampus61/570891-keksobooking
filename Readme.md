@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Наталья Асотова](https://up.htmlacademy.ru/javascript/16/user/570891).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Скрипкин](https://up.htmlacademy.ru/javascript/16/user/604273).
 
 ---
 
